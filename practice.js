@@ -3,10 +3,3 @@ asdf
 SharedArrayBufferasd
 falsesdf
 asdf
-as
-df
-asd
-falsesdfsad
-falsesdfasdf
-as
-df
