@@ -1,5 +1,2 @@
 document
 asdf
-SharedArrayBufferasd
-falsesdf
-asdf
